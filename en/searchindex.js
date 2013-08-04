@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{world:0,hello:0},objtypes:{},objnames:{},filenames:["index"],titles:["Welcome to Sphinx!"],objects:{},titleterms:{sphinx:0,welcom:0}})
